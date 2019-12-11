@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ProjectSIGERM-20191210T165715Z-001:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectSIGERM_20191210T165715Z_001_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ProjectSIGERM-20191210T165715Z-001/web/Web2" />
+      <element id="javaee-facet-resources" facet="ProjectSIGERM-20191210T165715Z-001/web/Web" />
+    </root>
+  </artifact>
+</component>
